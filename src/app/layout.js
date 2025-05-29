@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Next.js Blog with Strapi",
+  title: "Blog App",
   description: "A simple blog built with Next.js and Strapi",
 };
 
