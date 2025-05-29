@@ -5,6 +5,11 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
+
+cd Blog_App_Next
+
+npm i 
+
 npm run dev
 # or
 yarn dev
@@ -12,6 +17,12 @@ yarn dev
 pnpm dev
 # or
 bun dev
+```
+
+```env
+
+NEXT_PUBLIC_STRAPI_URL=http://localhost:1337
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
